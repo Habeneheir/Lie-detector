@@ -1,2 +1,2 @@
 # Lie-detector
-Lie detector using Arduino INO
+Lie detector using Arduino UNO
